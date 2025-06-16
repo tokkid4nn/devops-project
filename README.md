@@ -1,19 +1,4 @@
 # devops-project
-project-root/
-├── backend/
-│   ├── Dockerfile
-│   ├── package.json
-│   ├── index.js
-├── frontend/
-│   ├── index.html
-├── terraform/
-│   ├── main.tf
-│   ├── variables.tf
-│   ├── outputs.tf
-├── .github/
-│   └── workflows/
-│       └── deploy.yml
-└── README.md
 
 # Cloud DevOps Starter Project
 
